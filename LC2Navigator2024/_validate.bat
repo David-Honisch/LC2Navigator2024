@@ -27,4 +27,8 @@ dir /b plugins\tools\*.zip > %fileName%
 for /f "usebackq tokens=1-4 delims=|" %%a in ("%fileName%") do (
 	LC2CRC32CLI.exe plugins\tools\%%a > %~dp0plugins\tools\%%~na%%~xa-crc.sfv
 )
+dir /b plugins\web\*.zip > %fileName%
+for /f "usebackq tokens=1-4 delims=|" %%a in ("%fileName%") do (
+	LC2CRC32CLI.exe plugins\web\%%a > %~dp0plugins\web\%%~na%%~xa-crc.sfv
+)
 echo done.
