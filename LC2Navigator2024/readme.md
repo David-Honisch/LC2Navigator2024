@@ -1,7 +1,7 @@
 <h1>LC2Navigator2024</h1>
 
 ### LC2Navigator screenshot:
-<img src="LC2ExcelTransform.jpg" alt="LC2Navigator2024 Screenshot" width="400" />
+<img src="https://github.com/David-Honisch/LC2Navigator2024/raw/main/LC2Navigator2024/LC2ExcelTransform.jpg" alt="LC2Navigator2024 Screenshot" width="400" />
 
 ### OpenAI Plugin screenshot:
 <img src="LC2OpenAI.jpg" alt="LC2OpenAI Screenshot" width="400" />
@@ -34,7 +34,7 @@ https://www.letztechance.org/read-20-40.html
 
 
 
-## What is "LC2Navigator2020" app?
+## What is "LC2Navigator" app?
 
 It is a News Links Grabbing system based on NodeJS Javascript SQLite.
 Different technologies used like electron, nodejs, sql, sqlite, html5, jquery and many more...
@@ -48,9 +48,10 @@ Please notice:Java have to be installed.
 
 ## Plugins
 
-Look at the Plugins Downloader SQL Script here:
-https://raw.githubusercontent.com/David-Honisch/Microsoft-Windows/master/LC2Navigator2024/plugins/all.zip
-more in progress...
+All plugin downloads managed via this file:
+https://raw.githubusercontent.com/David-Honisch/LC2Navigator2024/main/LC2Navigator2024/all.zip
+
+or use the automatic installation inside of lc2navigator.
 
 # Deprecated or unsupported Plugins
 
@@ -116,44 +117,39 @@ more in progress...
 	- LC2RotatingTorproxy - Docker LC2RotatingTorproxy ha proxy with rotating tor proxy list nodes
 - LC2Python
 	- LC2Python - Docker LC2Python some python scripts
-- LC2Kafka added		
-- LC2Hadoop added		
-- LC2OpenSSH added	
-- LC2WatsonX added	
+- LC2Kafka down!		
+- LC2Hadoop down!		
+- LC2OpenSSH down!	
+- LC2WatsonX down!	
 
-- see plugin itslelf for more information
+- see https://www.letztechance.org to get more information.
 	
 	
-- see all plugins download
-<a href="https://raw.githubusercontent.com/David-Honisch/Microsoft-Windows/master/LC2Navigator2024/plugins/all.zip">All active Plugins</a>
-<a href="https://raw.githubusercontent.com/David-Honisch/Microsoft-Windows/master/LC2Navigator2024/LC2Navigator2020install.exe">Installer</a>
-<a href="https://www.letztechance.org/">LetzteChance.Org</a>
-<a href="https://www.letztechance.org/vue/">LetzteChance.Org v.2.0 Alpha (powered by VUE)</a>
-
-
  
-Example Screenshot of LC2ExcelTransform:
-- LC2ExcelTransform 
+LC2Navigator supports Excel and XML/XSLT Transformation processing:
+- file extension supports 
 	- Up to now there is Supports xls|xlsx|xlsm|xlsb|xml|csv|txt|dif|sylk|slk|prn|ods|fods|htm|html based Editor and Converter
-<img src="LC2ExcelTransform.png" alt="LC2ExcelTransform Exampel Screenshot" width="400" />
+<img src="LC2ExcelTransform.jpg" alt="LC2Navigator Screenshot" width="400" />
 
 
 
 ##Basic Requirements
 
 Windows 64
-Mac IOS
-Linux
+Mac IOS (plugins not supported)
+Linux (plugins not supported)
 
-Note:curently only windows x64 builds available. 32 Bit Electron build is not longer supported
+### Note:
+- Curently only windows x64 builds available. 
+- 32 Bit Electron build is not longer supported
 
 
 ## Plugin Software Requirements (no autoinstall !!)
 
 Python 3
-JDK 8<
+Open JDK 8<
 
-Note:curently only windows x64 builds available. 32 Bit Electron build is not longer supported
+Note:Please install this third party software.
 
 ## Download Installer (Microsoft Windows x64):
 
@@ -173,7 +169,9 @@ https://www.letztechance.org/read-20-35.html
 - Ant
 - MsBuild
 - ...
-- It may be various. Please, read the notes of the plugin or any development comments
+
+It may be vary.
+Please, read the notes of the plugin or any development comments.
 
 ## Supported os
 
@@ -201,25 +199,23 @@ Fetch videos from youtube playlist and download them one by one or all.
 1. Please use this app for downloading only public resources.
 2. The app doesn't store ANY media files ANYWHERE except on the device who use this app.
 
-<div>
-  Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
-</div>
 
-## Development
-	
-- Not open source
-- No comments
+## License
 
-Just using electron.
+- read download license	
+- mostly open source resources
+- read comments
 
 
 ## Development Notes
 
 You can find scripts on this repository to solve following package.json entries:
+	npm run startdev
     npm run tlint
 	npm run webpack	
     npm run electron
 	npm run test
+	npm run release
 	npm run build
 	npm run buildwindows
 	npm run buildmacos
@@ -245,48 +241,6 @@ based on:
 [emed java directly](https://github.com/jreznot/electron-java-app)
 [jest](https://jestjs.io/)
 
-#### Libraries
-
-- Electron
-- NodeJS
-- SQL.js
-- SQLITE
-- HTML5
-- JQuery
-
-- Angular 10
-- ReactJS
-- SAP.UI
-- Phaser IO
-
-- .NET CORE 3<
-- ASP .NET CORE 
-- .NET CORE EF
-- .NET CORE NHIBERNATE
-- JSF
-- ASF
-- Vadim
-
-- Jenkins
-- Grafana
-- ELK (Elastic Search Kibanan ...)
-- Kong
-
-
-- Spring Boot
-- Spring MVC
-- Spring Rest
-- Hibernate
-
-see plugins...
-
-### TODO
-
-?? Okay, there a lot of tasks todo....
-
-### Plugins
-LC2ImportExcelTransform v.1.01a
-<img src="LC2ExcelTransform.jpg" alt="logo" />
 
 
 ## License
