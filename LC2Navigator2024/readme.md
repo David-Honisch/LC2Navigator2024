@@ -1,12 +1,15 @@
 <h1>LC2Navigator2024</h1>
 
-### OpenAI Example screenshot:
+### LC2Navigator screenshot:
+<img src="LC2ExcelTransform.jpg" alt="LC2Navigator2024 Screenshot" width="400" />
+
+### OpenAI Plugin screenshot:
 <img src="LC2OpenAI.jpg" alt="LC2OpenAI Screenshot" width="400" />
 
-### LC2ExcelTransform Example screenshot:
+### Excel Transformation Plugin screenshot:
 <img src="LC2ExcelTransform.jpg.png" alt="LC2ExcelTransform Screenshot" width="400" />
 
-### Checking all requirements Example screenshot:
+### Checking all requirements Plugin screenshot:
 <img src="req.png" alt="Checking all requirements screenshot" width="400" />
 
 ## Source:
