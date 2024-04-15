@@ -22,8 +22,8 @@
 
 ## Windows 64 Bit Installer:
 
-<a href="https://raw.githubusercontent.com/David-Honisch/Microsoft-Windows/master/LC2Navigator2024/LC2Navigator2024install.exe">Installer</a>
-https://raw.githubusercontent.com/David-Honisch/Microsoft-Windows/master/LC2Navigator2024/LC2Navigator2024install.exe
+<a href="https://raw.githubusercontent.com/David-Honisch/LC2Navigator2024/main/LC2Navigator2024/LC2Navigator2024install.exe">LC2Navigator2024install.exe</a>
+https://raw.githubusercontent.com/David-Honisch/LC2Navigator2024/main/LC2Navigator2024/LC2Navigator2024install.exe
 
 Permanent Link:
 https://www.letztechance.org/read-20-35.html
