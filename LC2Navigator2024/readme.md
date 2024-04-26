@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/David-Honisch/LC2Navigator2024/main/LC2Navigat
 
 or use the automatic installation inside of lc2navigator.
 
-# Deprecated or unsupported Plugins
+# Notice:Deprecated or unsupported Plugins
 
 - SQLIte and NPM AutoInstall Packages 
 	- Required. Please always update this package
