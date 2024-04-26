@@ -49,8 +49,9 @@ https://www.letztechance.org/read-20-40.html
 It is a News Links Grabbing system based on NodeJS Javascript SQLite.
 Different technologies used like electron, nodejs, sql, sqlite, html5, jquery and many more...
 
-I�ve build an windows artifact and windows installer only in 64 Bit. 
-32 Bit is not longer supported.
+A windows and linux x64 Bit build artifact created and uploaded. 
+Microsoft Windows Installer build and uploaded. 
+- 32 Bit is not longer supported.
 
 There are different "Plugins" with a different technology stack.
 
