@@ -46,8 +46,9 @@ https://www.letztechance.org/read-20-40.html
 
 ## What is "LC2Navigator" app?
 
-It is a News Links Grabbing system based on NodeJS Javascript SQLite.
-Different technologies used like electron, nodejs, sql, sqlite, html5, jquery and many more...
+It is a News Links Grabbing and local AI system based on NodeJS Javascript SQLite.
+Different technologies used and supported java, rust, python and many more.
+Uses and supports Maven 3.9x, Gradle, NSIS, WI...
 
 A windows and linux x64 Bit build artifact created and uploaded. 
 Microsoft Windows Installer build and uploaded. 
