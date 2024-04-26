@@ -46,7 +46,10 @@ https://www.letztechance.org/read-20-40.html
 
 ## What is "LC2Navigator" app?
 
-It is a News Links Grabbing and local AI system based on NodeJS Javascript SQLite.
+It is a UI Database redirecting IO, News, Links, Grabbing, Container Orchistration, Building OS Software
+and local AI system 
+based on Electron, Apache Cordova, NodeJS Javascript SQLite and Maven.
+
 Different technologies used and supported java, rust, python and many more.
 Uses and supports Maven 3.9x, Gradle, NSIS, WI...
 
