@@ -4,6 +4,23 @@
 ### LC2Navigator screenshot:
 <img src="https://github.com/David-Honisch/LC2Navigator2024/raw/main/LC2Navigator2024/LC2ExcelTransform.jpg" alt="LC2Navigator2024 Screenshot" width="400" />
 
+## What is "LC2Navigator" app?
+
+It is a UI Database redirecting IO, News, Links, Grabbing, Container Orchistration, Building OS Software
+and local AI system 
+based on Electron, Apache Cordova, NodeJS Javascript SQLite and Maven.
+
+Different technologies used and supported java, rust, python and many more.
+Uses and supports Maven 3.9x, Gradle, NSIS, WI...
+
+A windows and linux x64 Bit build artifact created and uploaded. 
+Microsoft Windows Installer build and uploaded. 
+- 32 Bit is not longer supported.
+
+There are different "Plugins" with a different technology stack.
+
+Please notice:Java have to be installed.
+
 ### OpenAI Plugin screenshot:
 <img src="LC2OpenAI.jpg" alt="LC2OpenAI Screenshot" width="400" />
 
@@ -44,22 +61,6 @@ https://www.letztechance.org/read-20-40.html
 
 
 
-## What is "LC2Navigator" app?
-
-It is a UI Database redirecting IO, News, Links, Grabbing, Container Orchistration, Building OS Software
-and local AI system 
-based on Electron, Apache Cordova, NodeJS Javascript SQLite and Maven.
-
-Different technologies used and supported java, rust, python and many more.
-Uses and supports Maven 3.9x, Gradle, NSIS, WI...
-
-A windows and linux x64 Bit build artifact created and uploaded. 
-Microsoft Windows Installer build and uploaded. 
-- 32 Bit is not longer supported.
-
-There are different "Plugins" with a different technology stack.
-
-Please notice:Java have to be installed.
 
 ## Plugins
 
