@@ -1,4 +1,4 @@
-set nppp=C:\tools\Notepad++\notepad++.exe
+set nppp=D:\tools\Notepad++\notepad++.exe
 set input=all
 set srcdir=..\pluginssrc\
 set input=%input%
