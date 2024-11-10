@@ -35,4 +35,8 @@ dir /b plugins\java\*.zip > %fileName%
 for /f "usebackq tokens=1-4 delims=|" %%a in ("%fileName%") do (
 	LC2CRC32CLI.exe plugins\java\%%a > %~dp0plugins\java\%%~na%%~xa-crc.sfv
 )
+dir /b plugins\db\mongodb\*.zip > %fileName%
+for /f "usebackq tokens=1-4 delims=|" %%a in ("%fileName%") do (
+	LC2CRC32CLI.exe plugins\db\mongodb\%%a > %~dp0plugins\db\mongodb\%%~na%%~xa-crc.sfv
+)
 echo done.
