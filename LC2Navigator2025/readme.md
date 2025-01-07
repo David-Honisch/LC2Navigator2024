@@ -2,6 +2,14 @@
 
 The new LC UI - Windows Build (Linux, MacOs coming soon...)
 
+## Windows 64 Bit Installer:
+
+- <a href="https://raw.githubusercontent.com/David-Honisch/LC2Navigator2024/main/LC2Navigator2025/LC2Navigator2025install.exe" target="_blank">LC2Navigator2025 x64 install.exe</a>
+- https://raw.githubusercontent.com/David-Honisch/LC2Navigator2024/main/LC2Navigator2025/LC2Navigator2025install.exe
+
+Permanent Link:
+https://www.letztechance.org/read-20-35.html
+
 
 ### LC2Navigator screenshot:
 <img src="https://github.com/David-Honisch/LC2Navigator2024/raw/main/LC2Navigator2025/LC2Navigator2025.jpg" alt="LC2Navigator2024 Screenshot" width="400" />
@@ -23,11 +31,9 @@ There are different "Plugins" with a different technology stack.
 
 Please notice:Java have to be installed.
 
-### OpenAI Plugin screenshot:
-<img src="LC2OpenAI.jpg" alt="LC2OpenAI Screenshot" width="400" />
+### Plugin screenshot:
+<img src="LC2OpenAI.jpg" alt="Plugins screenshot - example: LC2OpenAI Screenshot" width="400" />
 
-### Excel Transformation Plugin screenshot:
-<img src="LC2ExcelTransform.jpg.png" alt="LC2ExcelTransform Screenshot" width="400" />
 
 ### Checking all requirements Plugin screenshot:
 <img src="req.png" alt="Checking all requirements screenshot" width="400" />
