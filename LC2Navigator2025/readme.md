@@ -4,7 +4,7 @@ The new LC UI - Windows Build (Linux, MacOs coming soon...)
 
 
 ### LC2Navigator screenshot:
-<img src="https://github.com/David-Honisch/LC2Navigator2024/raw/main/LC2Navigator2024/LC2ExcelTransform.jpg" alt="LC2Navigator2024 Screenshot" width="400" />
+<img src="https://github.com/David-Honisch/LC2Navigator2024/raw/main/LC2Navigator2025/LC2Navigator2025.jpg" alt="LC2Navigator2024 Screenshot" width="400" />
 
 ## What is "LC2Navigator" app?
 
