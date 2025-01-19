@@ -1,7 +1,7 @@
-# LC2Navigator2025 (Alpha 1) Updates
+# LC2Navigator2025 (Beta 1) Updates
 
 This is the current development release:
-Entering:Alpha 1 Status
+Entering:Beta 1 Status
 
 Please try the new UI:
 - https://github.com/David-Honisch/LC2Navigator2024/tree/main/LC2Navigator2025
