@@ -1,4 +1,4 @@
-# <h1>LC2Navigator2025 (Beta 2)</h1>
+# <h1>LC2Navigator2025 (Beta 3)</h1>
 
 The new LC UI - Windows Build (Linux, MacOs coming soon...)
 
@@ -70,7 +70,7 @@ https://www.letztechance.org/read-20-40.html
 
 
 
-## Plugins
+## General about Plugins
 
 All plugin downloads managed via this file:
 https://raw.githubusercontent.com/David-Honisch/LC2Navigator2024/main/LC2Navigator2025/all.zip
@@ -82,6 +82,50 @@ or use the automatic installation inside of lc2navigator.
 - C#/VB .NET
 - Go
 - C++ and more
+
+## Plugins
+
+Update 06.07.2025:
+some plugins update:
+- sqlite3win
+- LC2CRC32
+- LC2ShortCutCLI
+- lc2container
+- lc2containerservice
+- LC2Database
+- LC2DBCLI
+- lc2mongodb
+- LC2Oracle23C
+
+- lc2stable_diffusion
+- lc2stable_diffusion Web UI
+- lc2csvxml
+- LC2bat2exe
+- LC2CVEGrabber
+- LC2Authme
+- lc2docker2exe
+- LC2JSVideoPlayer
+
+- LC2SteamAchievementManager
+- lc2tts
+- lc2webllmchat
+- lc2wsdl_client_app
+- lcwebclient_final
+- org.letztechance.domain.web.GrabUrls
+
+build tools using
+- nsis
+- wix
+- apache-ant
+- apache-maven
+
+packages tools using
+- zip
+- sql
+- bat
+- iso
+- rpm
+
 
 # Notice:Deprecated or unsupported Plugins
 
