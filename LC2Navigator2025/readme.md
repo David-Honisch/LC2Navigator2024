@@ -191,10 +191,10 @@ packages tools using
 	- LC2RotatingTorproxy - Docker LC2RotatingTorproxy ha proxy with rotating tor proxy list nodes
 - LC2Python
 	- LC2Python - Docker LC2Python some python scripts
-- LC2Kafka down!		
-- LC2Hadoop down!		
-- LC2OpenSSH down!	
-- LC2WatsonX down!	
+- LC2Kafka
+- LC2Hadoop
+- LC2OpenSSH
+- LC2WatsonX
 
 - see https://www.letztechance.org to get more information.
 	
