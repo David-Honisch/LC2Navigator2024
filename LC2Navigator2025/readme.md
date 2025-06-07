@@ -1,4 +1,4 @@
-# <h1>LC2Navigator2025 (Beta 1)</h1>
+# <h1>LC2Navigator2025 (Beta 2)</h1>
 
 The new LC UI - Windows Build (Linux, MacOs coming soon...)
 
@@ -16,12 +16,12 @@ https://www.letztechance.org/read-20-35.html
 
 ## What is "LC2Navigator" app?
 
-It is a UI Database redirecting IO, News, Links, Grabbing, Container Orchistration, Building OS Software
+It is a UI Database redirecting IO, News, Links, Grabbing, Container Orchestration, Building OS Software
 and local AI system 
-based on Electron, Apache Cordova, NodeJS Javascript SQLite and Maven.
+based on Electron,Tauri, Apache Cordova, NodeJS Javascript SQLite.
 
 Different technologies used and supported java, rust, python and many more.
-Uses and supports Maven 3.9x, Gradle, NSIS, WI...
+Uses and supports Build System like Maven 3.9x, Gradle or Install NSIS, WX...
 
 A windows and linux x64 Bit build artifact created and uploaded. 
 Microsoft Windows Installer build and uploaded. 
@@ -76,6 +76,12 @@ All plugin downloads managed via this file:
 https://raw.githubusercontent.com/David-Honisch/LC2Navigator2024/main/LC2Navigator2025/all.zip
 
 or use the automatic installation inside of lc2navigator.
+# supported languages or tools
+- Rust
+- Python
+- C#/VB .NET
+- Go
+- C++ and more
 
 # Notice:Deprecated or unsupported Plugins
 
