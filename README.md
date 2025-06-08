@@ -1,8 +1,9 @@
-# LC2Navigator2025 (Beta 1) Updates
+# LC2Navigator2025 (Beta 3) Updates
 
 This is the current development release:
 Entering:Beta 1 Status
 
+<a href="https://github.com/David-Honisch/LC2Navigator2024/tree/main/LC2Navigator2025"><img src="https://www.letztechance.org/img.png?width=400&height=400&image=logo.png&text=LC2Navigator2025 (Beta 3) Update&r=20&g=20&b=20&test=." alt="LC2Navigator2025 Screenshot" width="400" /></a>
 Please try the new UI:
 - https://github.com/David-Honisch/LC2Navigator2024/tree/main/LC2Navigator2025
 
@@ -15,7 +16,7 @@ Linux release:(build coming soon...)
 Linux release:(build coming soon...)
 - https://github.com/David-Honisch/LC2Navigator2024/tree/main/LC2Navigator2025 (build coming soon...)
 
-# LC2Navigator2024
+# LC2Navigator2024 (deprecated)
 
 This is the current compatible release:
 
