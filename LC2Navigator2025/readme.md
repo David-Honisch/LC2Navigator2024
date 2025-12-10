@@ -1,6 +1,14 @@
-# <h1>LC2Navigator2025 (Beta 3)</h1>
+# <h1>LC2Navigator2025 (Deprecated)</h1>
 
-The new LC UI - Windows Build (Linux, MacOs coming soon...)
+## Latest Desktop application
+The realy new UI:
+https://github.com/David-Honisch/Microsoft-Windows/tree/master/LC2Navigator2026
+
+Up to now compilation for Microsoft Windows x64
+
+# Downloads(deprecated)
+
+The old LC UI - Windows Build (Linux, MacOs coming soon...)
 <a href="https://raw.githubusercontent.com/David-Honisch/LC2Navigator2024/main/LC2Navigator2025/LC2Navigator2025install.exe"><img src="https://www.letztechance.org/img.png?width=400&height=400&image=logo.png&text=LC2Navigator2025%20(Beta3)Installer&r=20&g=20&b=20&test=" alt="LC2Navigator2025 Installer Screenshot" width="400" /></a>
 
 ## Windows 64 Bit Installer:
